@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    middleman-bourbon (0.0.1)
+    middleman-bourbon (0.0.2)
       bourbon (>= 2.1.0)
 
 GEM
