@@ -1,6 +1,6 @@
 # Middleman Bourbon
 
-middleman extension to allow you to quickly and easily use the bourbon library
+Middleman extension to allow you to quickly and easily use the [Bourbon](http://thoughtbot.com/bourbon/) sass mixins
 
 ## Installation instructions
 

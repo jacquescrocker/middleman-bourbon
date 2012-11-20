@@ -2,7 +2,7 @@
 require "bundler/gem_tasks"
 
 $LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
-require "middleman-bourbon"
+require "middleman-bourbon/version"
 
 task :gem => :build
 task :build do
