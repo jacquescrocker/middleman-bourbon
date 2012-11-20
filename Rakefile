@@ -1,8 +1,7 @@
 #!/usr/bin/env rake
 require "bundler/gem_tasks"
 
-$LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
-require "middleman-bourbon/version"
+require File.expand_path('../lib/middleman-bourbon/version', __FILE__)
 
 task :gem => :build
 task :build do
