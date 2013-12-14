@@ -10,8 +10,6 @@ module MiddlemanBourbon
 
       # add bourbon to sass load path
       Sass.load_paths << File.expand_path("./app/assets/stylesheets", gem_dir)
-
-      puts "Bourbon loaded"
     end
     alias :included :registered
   end
