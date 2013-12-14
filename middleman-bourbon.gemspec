@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = MiddlemanBourbon::VERSION
 
-  gem.add_dependency 'bourbon', '>= 2.1.0'
+  gem.add_dependency 'bourbon', '>= 3.1.8'
 end
